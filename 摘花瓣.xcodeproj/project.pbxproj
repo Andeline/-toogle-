@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5757F2AA2658072200FD0FF9 /* TaipeiSansTCBeta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5757F2A92658072200FD0FF9 /* TaipeiSansTCBeta-Regular.ttf */; };
 		5762FA0F2658058B005016E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5762FA0E2658058B005016E0 /* AppDelegate.swift */; };
 		5762FA112658058B005016E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5762FA102658058B005016E0 /* SceneDelegate.swift */; };
 		5762FA132658058B005016E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5762FA122658058B005016E0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5757F2A92658072200FD0FF9 /* TaipeiSansTCBeta-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TaipeiSansTCBeta-Regular.ttf"; sourceTree = "<group>"; };
 		5762FA0B2658058B005016E0 /* 摘花瓣.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "摘花瓣.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5762FA0E2658058B005016E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5762FA102658058B005016E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		5762FA0D2658058B005016E0 /* 摘花瓣 */ = {
 			isa = PBXGroup;
 			children = (
+				5757F2A92658072200FD0FF9 /* TaipeiSansTCBeta-Regular.ttf */,
 				5762FA0E2658058B005016E0 /* AppDelegate.swift */,
 				5762FA102658058B005016E0 /* SceneDelegate.swift */,
 				5762FA122658058B005016E0 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				5762FA1B2658058F005016E0 /* LaunchScreen.storyboard in Resources */,
 				5762FA182658058F005016E0 /* Assets.xcassets in Resources */,
 				5762FA162658058B005016E0 /* Main.storyboard in Resources */,
+				5757F2AA2658072200FD0FF9 /* TaipeiSansTCBeta-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
